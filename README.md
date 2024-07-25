@@ -15,3 +15,5 @@ Solution of sparse indefinite systems of linear equations,
 SIAM J. Numer. Anal. 12(4), pp. 617-629. 
 
 File **"evolve.py"** provides a higher level of control of the previous files for massive generation of configurations in order to later build configurational averages (CAs) as well as input configurations.
+
+File **"power_law_surf.ipynb"** provides the script that illustrates the single-junction power-law.
